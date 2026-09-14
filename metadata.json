@@ -1,0 +1,6 @@
+{
+  "name": "Data Control Center",
+  "description": "Система контроля и актуализации данных Санкт-Петербургского филиала ООО «ГПК Дерфер»",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
